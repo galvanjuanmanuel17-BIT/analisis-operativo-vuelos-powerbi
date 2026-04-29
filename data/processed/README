@@ -1,1 +1,12 @@
+# Dataset procesado
 
+Este archivo contiene una versión trabajada del dataset original utilizada para construir el modelo estrella en Power BI.
+
+## Cambios realizados
+- Limpieza y revisión general de campos.
+- Incorporación de columnas auxiliares para facilitar el análisis.
+- Generación de atributos necesarios para organizar la información en un esquema dimensional.
+- Preparación de los datos para el armado de dimensiones y medidas dentro del modelo.
+
+## Objetivo
+El objetivo de estas modificaciones fue adaptar el dataset original a una estructura más adecuada para el análisis operativo de vuelos y su posterior visualización en Power BI.
